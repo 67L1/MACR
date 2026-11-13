@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers>=4.57.0
+accelerate
+datasets
+pyarrow
+pillow
+numpy
+tqdm
+einops
+timm
+packaging
