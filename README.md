@@ -206,11 +206,11 @@ This work builds on the following open-source projects, models and datasets.
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{anonymous2027macr,
-  title={Multi-Agent Relay Thinking},
-  author={Anonymous},
-  booktitle={Submitted to ICLR},
-  year={2027}
+@article{liu2026multiagentrelaythinking,
+      title={Multi-Agent Relay Thinking}, 
+      author={Xu Liu and Jungang Qiao and Guikun Chen and Xiaojuan Qi and Wenguan Wang},
+      year={2026},
+      journal={arXiv preprint arXiv:2610.35219},
 }
 ```
 
